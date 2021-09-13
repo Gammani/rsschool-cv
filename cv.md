@@ -17,14 +17,12 @@ I have always been attracted to computers, sometimes read and watched various ma
 I have been studying JS for a year, and I really liked this direction, in the future I want to start studying node js as well, since I see myself as a full-stack developer.
 
 
-
 **Skills**
 
 - Javascript, Typescript, html, css
 - React (material UI, storybook)
 - Redux
 - Git
-
 
 
 **Code Example**
@@ -34,6 +32,7 @@ const centuryFromYear = (year: number): number => {
     return Math.floor(year / 100) + (year % 100 ? 1 : 0);
 };
 ```
+
 
 **Work Experience**
 
