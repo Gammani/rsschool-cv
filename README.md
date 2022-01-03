@@ -1,1 +1,1 @@
-https://oreda-z.github.io/rsschool-cv/cv
+https://oreda-z.github.io/rsschool-cv/
